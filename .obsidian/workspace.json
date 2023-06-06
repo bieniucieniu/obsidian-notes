@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87091df8e42568e0",
+        "id": "99bed01f54350ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "0f825bd99ce6313b",
+            "id": "2ad7f416508eee93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4a857096ccf2fb8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a857096ccf2fb8b",
+  "active": "2ad7f416508eee93",
   "lastOpenFiles": [
+    "portfolio-website/main.md",
+    "portfolio-website/tab animation.md",
     "README.md",
+    "portfolio-website",
     "ideas.md"
   ]
 }

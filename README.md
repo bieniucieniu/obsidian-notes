@@ -1,2 +1,8 @@
-# obsidian-notes
-# obsidian-notes
+my notes
+
+
+
+
+
+
+yes i don't understand it 🙃
